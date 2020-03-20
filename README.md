@@ -154,9 +154,9 @@ $ bower install
 
 > Or Contributors/People
 
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| <a href="http://fvcproductions.com" target="_blank">**JMax**</a> | <a href="http://fvcproductions.com" target="_blank">**Zeverotti**</a> |
 | :---: |:---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) |
+| [![FVCproductions](https://avatars0.githubusercontent.com/u/36378436?s=200&u=b56a2b1b43b3463322a43733456fa31beb39c56c&v=4)](https://www.jz-software.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) |
 | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
 
 - You can just grab their GitHub profile image URL
