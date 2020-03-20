@@ -152,41 +152,10 @@ $ bower install
 
 ## Team
 
-> Or Contributors/People
-
 | <a href="https://www.jz-software.com" target="_blank">**JMax**</a> | <a href="https://www.jz-software.com" target="_blank">**Zeverotti**</a> |
 | :---: |:---:|
-| [![FVCproductions](https://avatars0.githubusercontent.com/u/36378436?s=200&u=b56a2b1b43b3463322a43733456fa31beb39c56c&v=4)](https://www.jz-software.com)    | [![FVCproductions](https://avatars0.githubusercontent.com/u/51973774?s=200&u=3af7be556b12fdcbd161f3c6d39b141b10c98817&v=4)](http://fvcproductions.com) |
+| [![FVCproductions](https://avatars0.githubusercontent.com/u/36378436?s=200&u=b56a2b1b43b3463322a43733456fa31beb39c56c&v=4)](https://www.jz-software.com)    | [![FVCproductions](https://avatars0.githubusercontent.com/u/51973774?s=200&u=3af7be556b12fdcbd161f3c6d39b141b10c98817&v=4)](https://www.jz-software.com) |
 | <a href="https://github.com/JMax45" target="_blank">`github.com/JMax45`</a> | <a href="https://github.com/Zeverotti" target="_blank">`github.com/Zeverotti`</a> |
-
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
-
----
-
-## FAQ
-
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
-
----
-
-## Support
-
-Reach out to me at one of the following places!
-
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
-
----
-
-## Donations (Optional)
-
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
-
 
 ---
 
