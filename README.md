@@ -14,11 +14,7 @@ A [Rainbow Six Siege](https://www.ubisoft.com/en-us/game/rainbow-six/siege) oper
 > If your `README` has a lot of info, section headers might be nice.
 
 - [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
 - [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
 - [License](#license)
 
 
