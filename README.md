@@ -79,27 +79,22 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/JMax45/r6sRandomizer`
 
 ### Setup
 
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
+> move to the directory with the program
 
 ```shell
-$ brew update
-$ brew install fvcproductions
+$ cd r6sRandomizer/build-r6sRandomizer-Desktop-Debug/
 ```
 
-> now install npm and bower packages
+> run the program
 
 ```shell
-$ npm install
-$ bower install
+$ chmod +x r6sRandomizer
+$ ./r6sRandomizer
 ```
-
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
 
 ---
 
@@ -117,4 +112,4 @@ $ bower install
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © <a href="https://www.jz-software.com" target="_blank">FVCproductions</a>.
+- Copyright 2020 © <a href="https://www.jz-software.com" target="_blank">JZ-Software</a>.
