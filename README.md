@@ -154,10 +154,10 @@ $ bower install
 
 > Or Contributors/People
 
-| <a href="http://fvcproductions.com" target="_blank">**JMax**</a> | <a href="http://fvcproductions.com" target="_blank">**Zeverotti**</a> |
+| <a href="https://www.jz-software.com" target="_blank">**JMax**</a> | <a href="https://www.jz-software.com" target="_blank">**Zeverotti**</a> |
 | :---: |:---:|
-| [![FVCproductions](https://avatars0.githubusercontent.com/u/36378436?s=200&u=b56a2b1b43b3463322a43733456fa31beb39c56c&v=4)](https://www.jz-software.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
+| [![FVCproductions](https://avatars0.githubusercontent.com/u/36378436?s=200&u=b56a2b1b43b3463322a43733456fa31beb39c56c&v=4)](https://www.jz-software.com)    | [![FVCproductions](https://avatars0.githubusercontent.com/u/51973774?s=200&u=3af7be556b12fdcbd161f3c6d39b141b10c98817&v=4)](http://fvcproductions.com) |
+| <a href="https://github.com/JMax45" target="_blank">`github.com/JMax45`</a> | <a href="https://github.com/Zeverotti" target="_blank">`github.com/Zeverotti`</a> |
 
 - You can just grab their GitHub profile image URL
 - You should probably resize their picture using `?s=200` at the end of the image URL.
